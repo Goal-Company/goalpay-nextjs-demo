@@ -80,6 +80,18 @@ Lancer le projet :
 
 ------------------------------------------------------------------------
 
+# 💾 Migration de la base de données
+
+Génération base de données :
+
+`npx drizzle-kit generate`
+
+Migration :
+
+`npx drizzle-kit migrate`
+
+------------------------------------------------------------------------
+
 # 🔑 Variables d'environnement
 
 Créer un fichier `.env` à partir du copie du `.env.example` 
