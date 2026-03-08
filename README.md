@@ -170,5 +170,9 @@ développeurs.
 
 # 📬 Support
 
-Email : support@goalpay.mg\
-Documentation : https://goalpay.pro/docs
+Email : goalpay.mg@gmail.com
+
+Documentation : https://goalpay.pro/docs 
+
+Donation : https://donation.goalpay.pro 
+
